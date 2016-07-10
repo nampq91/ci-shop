@@ -1,0 +1,3 @@
+<?= $extraFooter ?>
+</body>
+</html>

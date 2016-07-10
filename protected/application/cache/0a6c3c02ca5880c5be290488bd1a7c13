@@ -1,0 +1,8 @@
+a:3:{s:4:"time";i:1444205275;s:3:"ttl";i:3600;s:4:"data";a:27:{s:9:"site_name";s:14:"Minh Minh Shop";s:5:"title";s:14:"Minh Minh Shop";s:11:"description";s:14:"Minh Minh Shop";s:7:"keyword";s:55:"lưu minh,shop,bán hàng online,bán quần áo online";s:7:"favicon";s:53:"http://localhost/ci3/uploads/media/config/favicon.png";s:6:"images";s:72:"http://localhost/ci3/uploads/media/config/final-test-logo-1425632006.jpg";s:4:"logo";s:72:"http://localhost/ci3/uploads/media/config/final-test-logo-1425632006.jpg";s:10:"logo_title";s:14:"Minh Minh Shop";s:9:"text_mask";s:14:"Minh Minh Shop";s:9:"copyright";s:22:"2015 by Minh Minh Shop";s:14:"site_sale_name";s:14:"Minh Minh Shop";s:10:"site_phone";s:11:"01668386705";s:10:"site_email";s:19:"luuminhtb@gmail.com";s:12:"site_address";s:9:"Hà Nội";s:11:"author_name";s:9:"Minh Lưu";s:11:"author_link";s:0:"";s:16:"google_analytics";s:0:"";s:10:"google_wmt";s:0:"";s:15:"facebook_app_id";s:15:"709602625800546";s:19:"facebook_app_secret";s:32:"19c8eadb8590b0070fbf65d2911d2e96";s:16:"facebook_fanpage";s:0:"";s:12:"twitter_user";s:0:"";s:12:"twitter_name";s:0:"";s:12:"twitter_page";s:0:"";s:16:"disqus_shortname";s:14:"hotgirlvietnam";s:6:"humans";s:0:"";s:6:"robots";s:160:"User-agent: *
+Disallow: */images/*
+Disallow: */uploads/*
+Disallow: */admin/*
+User-agent: Swiftbot
+Disallow: /tag/
+Disallow: /author/
+Disallow: /category/";}}
